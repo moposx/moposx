@@ -1,3 +1,3 @@
 = 只是测试 Asciidoc 能否被正确渲染为 GitHub Profile
 
-看起来*可以*！
+看起来 *可以* ！
