@@ -1,3 +1,6 @@
 = 只是测试 Asciidoc 能否被正确渲染为 GitHub Profile
+:icons: font
 
 看起来 *可以* ！
+
+icon:location[]
